@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "click>=8.3.1",
     "openai>=2.20.0",
     "python-dotenv>=1.2.1",
+    "rich>=14.3.2",
 ]
